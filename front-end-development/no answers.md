@@ -565,10 +565,10 @@ console.log(currencies);
 
 #### Q59. What is meant by the term "polyfill" when used in web development?
 
-- [ ]It is a piece of code that provides modern functionality in browsers that do not support it.
-- [ ] It is a piece of code that hides broken content from old browsers.
-- [ ] It is a term for languages such as Saas that compliles to CSS.
-- [ ] It is a script that runs to add vendor prefixes to modern CSS.
+- {} It is a piece of code that provides modern functionality in browsers that do not support it.
+- {} It is a piece of code that hides broken content from old browsers.
+- {} It is a term for languages such as Saas that compliles to CSS.
+- {} It is a script that runs to add vendor prefixes to modern CSS.
 
 [Source: Polyfill](https://developer.mozilla.org/en-US/docs/Glossary/Polyfill)
 
