@@ -825,7 +825,7 @@ box {
 #### Q84. To create a collection of radio buttons associated with the same field, each <input> tag must \_\_\_\_.
 
 - [ ] have the same value of the id attribute
-- [ ]have the same value of the name attribute
+- [ ] have the same value of the name attribute
 - [ ] belong to the same field set
 - [ ] have the same value of the class attribute
 
