@@ -442,8 +442,7 @@ console.log(currencies);
 
 [Source: W3Schools](https://www.w3schools.com/css/css_positioning.asp)
 
-**position: absolute;**
-`An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed). However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling.`
+
 
 #### Q46. You have created a box that has a height set with CSS. Which line of CSS would add scroll bars if the content is taller than the box, but leave no visible scroll bars if the content fits into the box?
 
@@ -470,8 +469,7 @@ console.log(currencies);
 
 [Source: W3Schools](https://www.w3schools.com/css/css_float_clear.asp)
 
-**clear: left;**
-`When we use the float property, and we want the next element below (not on right or left), we will have to use the clear property. When clearing floats, you should match the clear to the float: If an element is floated to the left, then you should clear to the left. Your floated element will continue to float, but the cleared element will appear below it on the web page.`
+
 
 #### Q49. You want to create striped table rows using CSS without adding a class to any element. Which CSS would correctly apply the background color to every odd row in your table?
 
