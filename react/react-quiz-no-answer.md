@@ -34,7 +34,7 @@ console.log(person("Jill", "Wilson"))
 
 `import React, {useState} from 'react';`
 
-- [x] React Hooks
+- [ ] React Hooks
 - [ ] stateful components
 - [ ] math
 - [ ] class components
